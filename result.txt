@@ -1,0 +1,1 @@
+{'title': 'Obesity grade 3', 'msg': 'A BMI above 40 indicates class 3 (extreme) obesity, posing high risks for heart failure,\nstroke, and severe diabetes.\nIntensive treatment, lifestyle changes\nand possibly surgery are often needed.', 'color': '#8B0000', 'bmi': 41.52249134948097}
