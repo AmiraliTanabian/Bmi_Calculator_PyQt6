@@ -20,3 +20,8 @@ A graphical program developed with Python and PyQt6  to calculate body mass inde
   </li>
   </li>
 </ul>
+
+
+<img alt="Main Page" src="Images/main.png"> <br>
+<img alt="Suggestions page" src = "Images/3.png">
+<img alt="Result page" src="Images/2.png">
